@@ -1,0 +1,7 @@
+pandas
+pyarrow
+python-dotenv
+azure-storage-blob
+jupyter
+nbconvert
+ipykernel

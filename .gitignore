@@ -1,0 +1,12 @@
+.env
+dataset/yellow_tripdata_2025-01.parquet
+output/yellow_tripdata_2025-01.parquet
+logs/
+/tmp/*.parquet
+dags/__pycache__/yellow_taxi_pipeline.cpython-312.pyc
+dataset/archive/cars_new.csv
+dataset/archive/cars.csv
+dags/__pycache__/cars_realtime_dag.cpython-312.pyc
+dataset/archive/new_cars.csv
+dataset/new_cars.csv
+docker-compose.yaml
