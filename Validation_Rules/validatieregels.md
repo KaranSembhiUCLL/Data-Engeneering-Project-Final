@@ -40,7 +40,7 @@
 | `car_id`     | Integer | Not null                                         | Drop  |
 | `brand`      | String  | Not null · in geldige merkenlijst                | Drop  |
 | `year`       | Integer | Not null · 1990–2025                             | Drop  |
-| `mileage_km` | Float   | Not null · >= 0                                  | Drop  |
+| `Mileage_km` | Float   | Not null · >= 0                                  | Drop  |
 | `fuel_type`  | String  | Not null · in {Petrol, Diesel, Electric, Hybrid} | Drop  |
 | `price_eur`  | Float   | Not null · > 0                                   | Drop  |
 
