@@ -9,4 +9,3 @@ dataset/archive/cars.csv
 dags/__pycache__/cars_realtime_dag.cpython-312.pyc
 dataset/archive/new_cars.csv
 dataset/new_cars.csv
-docker-compose.yaml
